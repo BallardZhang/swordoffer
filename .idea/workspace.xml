@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5524199c-95ea-42d2-9d74-b04977ddd61e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="JRebelWorkspace">
+    <option name="jrebelEnabledAutocompile" value="true" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\Software\apache-maven-3.6.3\repository" />
+        <option name="mavenHome" value="D:/Software/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\Software\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1W3ktIdPGmH7bm9yRC7tfPJZ3lw" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jxr</selection>
+  </component>
+  <component name="RunManager">
+    <configuration name="Demo_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ballard.Demo_01" />
+      <module name="swordoffer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ballard.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Demo_01" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",ALPHA_COMPARATOR,SHOW_FIELDS,SHOW_NON_PUBLIC" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5524199c-95ea-42d2-9d74-b04977ddd61e" name="Default Changelist" comment="" />
+      <created>1578385878741</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578385878741</updated>
+      <workItem from="1578385881650" duration="4667000" />
+      <workItem from="1578620522550" duration="3002000" />
+      <workItem from="1578623679402" duration="441000" />
+      <workItem from="1578624134627" duration="632000" />
+      <workItem from="1578721839296" duration="174000" />
+      <workItem from="1578722048519" duration="12000" />
+      <workItem from="1578722092983" duration="315000" />
+      <workItem from="1578722569146" duration="50000" />
+      <workItem from="1578722647535" duration="348000" />
+      <workItem from="1578723008436" duration="81000" />
+      <workItem from="1578880270599" duration="593000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1483" height="239" key="GridCell.Tab.0.bottom" timestamp="1578472568995">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1483" height="239" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1578472568995" />
+    <state width="1483" height="239" key="GridCell.Tab.0.center" timestamp="1578472568995">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1483" height="239" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1578472568995" />
+    <state width="1483" height="239" key="GridCell.Tab.0.left" timestamp="1578472568995">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1483" height="239" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1578472568995" />
+    <state width="1483" height="239" key="GridCell.Tab.0.right" timestamp="1578472568995">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1483" height="239" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1578472568995" />
+    <state width="1483" height="239" key="GridCell.Tab.1.bottom" timestamp="1578472568995">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1483" height="239" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1578472568995" />
+    <state width="1483" height="239" key="GridCell.Tab.1.center" timestamp="1578472568995">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1483" height="239" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1578472568995" />
+    <state width="1483" height="239" key="GridCell.Tab.1.left" timestamp="1578472568995">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1483" height="239" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1578472568995" />
+    <state width="1483" height="239" key="GridCell.Tab.1.right" timestamp="1578472568995">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1483" height="239" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1578472568995" />
+    <state x="345" y="0" key="SettingsEditor" timestamp="1578730653969">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="345" y="0" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1578730653969" />
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog" timestamp="1578894924420">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.1536.834@0.0.1536.834" timestamp="1578894924420" />
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1578723013467" />
+    <state x="341" y="186" key="run.anything.popup" timestamp="1578386483032">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="341" y="186" key="run.anything.popup/0.0.1536.834@0.0.1536.834" timestamp="1578386483032" />
+    <state x="347" y="-1" width="840" height="1034" key="search.everywhere.popup" timestamp="1578887905033">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="347" y="-1" width="840" height="1034" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1578887905033" />
+  </component>
+</project>
